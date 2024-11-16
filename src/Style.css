@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+    margin-top: 10px;
+}
+.button{
+    width: 100px;
+    height: 40px;
+    font-size: 24px;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.image{
+    margin-top: 10px;
+    border-radius: 10px;
+}
